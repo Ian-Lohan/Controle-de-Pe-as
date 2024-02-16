@@ -1,2 +1,2 @@
-# Controle-de-Pe-as
+# Controle-de-Saldo
 Sistema em JavaScript para controle de saldo de peças
